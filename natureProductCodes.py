@@ -5,7 +5,7 @@ natureProductCodes = {
 	# A serias
 	'Acta Pharmacologica Sinica' : 'aps',
 	'American Journal of Gastroenterology' : 'ajg',
-	'American Journal of Gastroenterology Supplements' : 'ajgsup'
+	'American Journal of Gastroenterology Supplements' : 'ajgsup',
 	'Asian Journal of Andrology' : 'aja'
 
 `	# B series
