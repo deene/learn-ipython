@@ -6,13 +6,13 @@ natureProductCodes = {
 	'Acta Pharmacologica Sinica' : 'aps',
 	'American Journal of Gastroenterology' : 'ajg',
 	'American Journal of Gastroenterology Supplements' : 'ajgsup',
-	'Asian Journal of Andrology' : 'aja'
+	'Asian Journal of Andrology' : 'aja',
 
-`	# B series
+	# B series
 	'Blood Cancer Journal' : 'bcj',
 	'Bone Marrow Transplantation' : 'bmt',
-	'BoneKEy Reports' : 'bonekeyreports'
-	'British Dental Journal' : 'bdj'
+	'BoneKEy Reports' : 'bonekeyreports',
+	'British Dental Journal' : 'bdj',
 	'British Journal of Cancer' : 'bjc',
 
 	# C series
@@ -86,7 +86,7 @@ natureProductCodes = {
 	'Nature Chemistry' : 'nchem',
 	'Nature Climate Change' : 'nclimate',
 	'Nature Communications' : 'ncomms',
-	'Nature Digest' : 'ndigest'
+	'Nature Digest' : 'ndigest',
 	'Nature Genetics' : 'ng',
 	'Nature Geoscience' : 'ngeo',
 	'Nature Immunology' : 'ni',
@@ -98,7 +98,7 @@ natureProductCodes = {
 	'Nature Photonicsv' : 'nphoton',
 	'Nature Physics' : 'nphys',
 	'Nature Protocols' : 'nprot',
-	'Nature research journals' : ''
+	'Nature research journals' : '',
 	'Nature Reviews journals' : 'reviews',
 	'Nature Reviews Cancer' : 'nrc',
 	'Nature Reviews Cardiology' : 'ncardio',
